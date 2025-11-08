@@ -82,6 +82,7 @@
 0.0.0.0 s3-config.samsungacr.com
 0.0.0.0 samsung-akcja.e-kei.pl
 0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 samsung-eden.wuaki.tv
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 samsung-klimatyzacja.pl
 0.0.0.0 samsung-produkcja.24.eu
@@ -102,6 +103,7 @@
 0.0.0.0 sca.samsung.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 sso.internetat.tv
+0.0.0.0 stb-static.canal-plus.com
 0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 t.email1.samsung.ca
 0.0.0.0 targeted-config-test.samsungacr.com
